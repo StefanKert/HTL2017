@@ -1,8 +1,6 @@
-# Rota Codingriddle - HTL 2017
+This website provides information for the riddles that should be solved during Infoday 2017 at the _HTL_. You can fork this repository and provide the solution through a pull request, or you can discuss the solution with us directly! You can provide the solution either in pseudo code or in a language of your choice.
 
-This website provides information for the riddles that should be solved during Jobinformation-day at the _HTL_. You can fork this repository and provide the solution through a pull request! You can provide the solution either in pseudo code or in a language of your choice.
-
-## We are looking forward to receive your solutions!!
+## We are looking forward to receive your solutions and to talk to you!!
 
 
 # Riddle 1 - Crazy Counter
