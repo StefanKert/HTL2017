@@ -1,36 +1,15 @@
-## Welcome to GitHub Pages
+## Rota Codingriddle - HTL 2017
 
-You can use the [editor on GitHub](https://github.com/StefanKert/RotaCodingRiddle_HTL_2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website provides information for the riddles that should be solved during Jobinformation Day at the _HTL_. You can gather basic information whithin this website and than you can fork this repository and provide the solution through a pull request!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Have Fun !!!!**
 
-### Markdown
+### 1. Riddle
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first riddle is pretty easy. You should have no problems solving it with the knowledge you have. The goal of this riddle is to print all numbers from 1 - 100, starting with the following source code:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StefanKert/RotaCodingRiddle_HTL_2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+for (int i = 100; 
 
 ### Support or Contact
 
