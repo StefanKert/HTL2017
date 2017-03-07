@@ -10,6 +10,7 @@ The first riddle is pretty easy. You should have no problems solving it with the
 
 ```markdown
 for (int i = 100; 
+```
 
 ### Support or Contact
 
