@@ -4,7 +4,7 @@ This website provides information for the riddles that should be solved during J
 
 **Have Fun !!!!**
 
-### 1. Riddle
+### Riddle 1
 
 The first riddle is pretty easy. You should have no problems solving it with the knowledge you have. The goal of this riddle is to print all numbers from 1 - 100, starting with the following source code:
 
